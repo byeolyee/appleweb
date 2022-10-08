@@ -1,0 +1,19 @@
+html{
+    font-family: $default-font;
+    font-size: 14px;
+}
+
+body{
+    overflow-x: hidden;
+    color : rgb(29,29,31);
+    letter-spacing: -0.05em;
+    background-color: #fff;
+}
+
+p{
+    line-height: 1.6;
+}
+
+a{
+    text-decoration: none;
+}
