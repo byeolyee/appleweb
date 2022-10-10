@@ -1,5 +1,6 @@
 .global-nav{
     height: 44px;
+    padding : 0 1rem;
     .global-nav-list{
         max-width : 1000px;
         height : 100%;
@@ -14,6 +15,7 @@
 
 .local-nav{
     height: 52px;
+    padding : 0 1rem;
     border-bottom: 1px solid #ddd;
     .local-nav-list{
         max-width: 1000px;

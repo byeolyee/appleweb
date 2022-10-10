@@ -1,0 +1,19 @@
+#scroll-section-0{
+    h1{
+        font-size: 4rem;
+        text-align: center;
+    }
+    .main-message{
+        display : flex;
+        align-items: center;
+        justify-content: center;
+        margin : 5px 0;
+        height : 3em; //현재 폰트사이즈 기준 35 * 3 = 105
+        font-size: 2.5rem; //디폴트 폰트사이즈 기준 28+7=35
+        p{
+            font-weight: bold;
+            text-align: center;
+            line-height: 1.2;
+        }
+    }
+}
